@@ -1,3 +1,3 @@
-# Welcome to my blog
+# I'm glad you that you are here.
 
-I'm glad you are here. I plan to talk about ...
+I will continuously add content as I build my portfolio.
